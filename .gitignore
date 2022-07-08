@@ -1,0 +1,4 @@
+log/
+*.log
+*.coverprofile
+*.DS_Store
